@@ -1,9 +1,48 @@
-# I like to move it
+# Heading level 1
 
-**Instructions: Complete all tasks in the terminal**
-* Create a directory named `move-it`.
-* Inside the directory, create a README file and another directory called `target`. 
-* Move the README file to the target directory. 
-* Inside the `target` directory, create another directory called `assets`. 
-* Rename the `assets` directory to `images`.
-* Remove the `move-it` directory.
+## Heading level 2
+
+...
+###### Heading level 6
+
+I just love **bold text**
+
+__bold text__
+
+Love**is**bold
+
+Italicized text is the *cat's meow*
+
+_italic_
+
+
+Love*is*italic
+
+Love***is***bold&italic
+
+This _**is**_ bla
+
+> Hello World 
+
+>Hello world
+>
+>again
+
+1. 1 item
+2. 2item
+3. 3item
+    1. indented item
+    2. indented 2. item
+- first
+- second
+
+* First
+* second
+
++ first
++ second
+    - bla
+    - bla
+
+[Google](https:\\www.google.de)
+    
